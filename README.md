@@ -1,4 +1,4 @@
-<img src="https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%E1%84%89%E1%85%B3%E1%84%8F%E1%85%AE%E1%86%AF.png" width="3000" style="float:left" />
+<img src="https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%E1%84%89%E1%85%B3%E1%84%8F%E1%85%AE%E1%86%AF.png" width="2000" style="float:left" />
 
 ## [이어드림 스쿨] 스타트업 연계 프로젝트 | [2021 농산물 가격예측 AI 경진대회](https://dacon.io/competitions/official/235801/overview/description)
 ### 주제 : 농산물 품목별로 가격 변동 예측 모델 구현
