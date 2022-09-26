@@ -39,4 +39,4 @@ Notion, Github, Slack
 ```
 
 ## directory structure
-<img src="https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/directory%20structure.png" width="800" style="float:left" />
+<img src="https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/directory%20structure.png" width="300" style="float:left" />
