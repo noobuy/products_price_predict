@@ -1,4 +1,4 @@
-# [이어드림 스쿨] 스타트업 연계 프로젝트 | [2021 농산물 가격예측 AI 경진대회](https://dacon.io/competitions/official/235801/overview/description)
+## [이어드림 스쿨] 스타트업 연계 프로젝트 | [2021 농산물 가격예측 AI 경진대회](https://dacon.io/competitions/official/235801/overview/description)
 ### 주제 : 농산물 품목별로 가격 변동 예측 모델 구현
 
 **[소개]**
