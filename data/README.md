@@ -1,6 +1,5 @@
 # Data Directory
 
-## Directory Information
 
 ### raw
 
