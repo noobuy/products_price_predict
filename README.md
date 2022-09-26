@@ -5,8 +5,8 @@
 
 # Information
 ## About Project
-[2021 농산물 가격예측 AI 경진대회](https://dacon.io/competitions/official/235801/overview/description)
-**[주제] 농산물 품목별로 가격 변동 예측 모델 구현**<br>
+[2021 농산물 가격예측 AI 경진대회](https://dacon.io/competitions/official/235801/overview/description)<br>
+**[주제] 농산물 품목별로 가격 예측 모델 구현**<br>
 ```
 수요예측 -> 계획 생산 -> 좋은 품질을 연간 균일, 합리적인 가격
 ```
