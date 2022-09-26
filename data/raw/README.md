@@ -13,30 +13,30 @@
 
 	1-1. train.csv : 베이스라인 코드용으로 가공된 학습 데이터
 
-date: 일자
-요일: 요일
-품목_거래량(kg): 해당 품목의 거래량
-품목_가격(원/kg): 해당 품목의 kg당 가격
-품목_가격 산출 방식 : 품목 또는 품종의 총 거래금액/총 거래량 (※취소된 거래내역 제외)
+date: 일자<br>
+요일: 요일<br>
+품목_거래량(kg): 해당 품목의 거래량<br>
+품목_가격(원/kg): 해당 품목의 kg당 가격<br>
+품목_가격 산출 방식 : 품목 또는 품종의 총 거래금액/총 거래량 (※취소된 거래내역 제외)<br>
 	1-2. test_files : 베이스라인 코드용으로 가공된 테스트 데이터(추론일자별 분리, ex.test_2020-08-29.csv => 2020년 8월 29일 추론에 사용 가능 데이터)
 
 	1-3. train_AT_TSALET_ALL : 학습용 전국 도매시장 거래정보 데이터(train.csv 생성에 사용)
 
-SALEDATE: 경락 일자
-WHSAL_NM: 도매시장
-CMP_NM: 법인
-PUM_NM: 품목
-KIND_NM: 품종
-DAN_NM: 단위
-POJ_NM: 포장
-SIZE_NM: 크기
-LV_NM: 등급
-SAN_NM: 산지
-DANQ: 단위중량
-QTY: 물량
-COST: 단가
-TOT_QTY: 총물량 (음수로 집계된 값은 거래 취소 내역)
-TOT_AMT: 총금액
+SALEDATE: 경락 일자<br>
+WHSAL_NM: 도매시장<br>
+CMP_NM: 법인<br>
+PUM_NM: 품목<br>
+KIND_NM: 품종<br>
+DAN_NM: 단위<br>
+POJ_NM: 포장<br>
+SIZE_NM: 크기<br>
+LV_NM: 등급<br>
+SAN_NM: 산지<br>
+DANQ: 단위중량<br>
+QTY: 물량<br>
+COST: 단가<br>
+TOT_QTY: 총물량 (음수로 집계된 값은 거래 취소 내역)<br>
+TOT_AMT: 총금액<br>
 	1-4. test_AT_TSALET_ALL : 추론용 전국 도매시장 거래정보 데이터(test_files 생성에 사용)
 
 
@@ -49,7 +49,7 @@ TOT_AMT: 총금액
 
 3. sample_submission.csv : 제출 양식
 
-예측대상일자: 예측대상일(기준일로부터 1,2,4주 뒤 일자)
+예측대상일자: 예측대상일(기준일로부터 1,2,4주 뒤 일자)<br>
 품목_가격(원/kg): 해당 품목의 kg당 가격
 
 
