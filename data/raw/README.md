@@ -55,8 +55,8 @@ TOT_AMT: 총금액
 
 4. 추천 외부 데이터
 
-농산물 유통 정보: https://www.kamis.or.kr/customer/reference/openapi_list.do
-aT 도매유통 정보시스템: https://at.agromarket.kr/openApi/apiInfoDtl.do?apiSeq=1
-농촌진흥청 국립농업과학원 농업기상 데이터: https://www.data.go.kr/data/15078057/openapi.do
-관세청_품목별 수출입 실적: https://www.data.go.kr/data/3046122/openapi.do
+농산물 유통 정보: https://www.kamis.or.kr/customer/reference/openapi_list.do <br> 
+aT 도매유통 정보시스템: https://at.agromarket.kr/openApi/apiInfoDtl.do?apiSeq=1<br>
+농촌진흥청 국립농업과학원 농업기상 데이터: https://www.data.go.kr/data/15078057/openapi.do<br>
+관세청_품목별 수출입 실적: https://www.data.go.kr/data/3046122/openapi.do<br>
 농식품수출정보: https://www.kati.net/statistics/monthlyPerformanceByProduct.do
