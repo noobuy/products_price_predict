@@ -38,5 +38,5 @@ Colab, VSCode, M1 Jupyter Notebook
 Notion, Github, Slack
 ```
 
-
-
+## directory structure
+<img src="https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/directory%20structure.png" width="800" style="float:left" />
