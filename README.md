@@ -20,16 +20,15 @@
 **[기업]**<br>
 마켓컬리
 
+**About Team**
 ```
-About Team
-
-팀원 <br>
+팀원 
 장한결, 김태성, 최고은
 
-개발 도구<br>
+개발 도구
 Colab, VSCode, M1 Jupyter Notebook
 
-협업 툴<br>
+협업 툴
 Notion, Github, Slack
 ```
 
