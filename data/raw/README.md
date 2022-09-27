@@ -12,6 +12,7 @@
 1. public_data : public leaderboard용 데이터
 
 	1-1. train.csv : 베이스라인 코드용으로 가공된 학습 데이터
+	[기간] 2016년 1/1 ~ 2020년 9/28
 
 date: 일자<br>
 요일: 요일<br>
