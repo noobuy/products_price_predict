@@ -7,7 +7,8 @@
 ## 평가지표
 RMSE(Root Mean Squared Error)
 
-$$RMSE = \sqrt{\frac{\sum_{}^{}(y-\hat{y})^2}{n}$$
+$RMSE = \sqrt{\frac{\sum_{}^{}(y-\hat{y})^2}{n}$
+
 MSE에 Root 씌운 것.
 
 RMSE를 사용하면 오류 지표를 실제 값과 유사한 단위로 다시 변환하여 해석을 쉽게 한다.
