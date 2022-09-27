@@ -34,6 +34,9 @@
 개발 도구
 Colab, VSCode, M1 Jupyter Notebook
 
+라이브러리 
+Pandas, numpy, maplotlib, tensorflow, keras, math, requests, sklearn, seaborn
+
 협업 툴
 Notion, Github, Slack
 ```
