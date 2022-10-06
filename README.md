@@ -1,4 +1,4 @@
-<img src="https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B7%E1%84%89%E1%85%B3%E1%84%8F%E1%85%AE%E1%86%AF.png" width="2000" style="float:left" />
+<img src="https://github.com/yeardream2-KurlyProject/products_price_predict/blob/main/%EC%9D%B4%EC%96%B4%EB%93%9C%EB%A6%BC%EC%8A%A4%EC%BF%A8.png" width="2000" style="float:left" />
 
 # 스타트업 연계 프로젝트 
  - 주관 : 중소기업벤처부 이어드림 스쿨 2기
