@@ -4,6 +4,13 @@
 - 머신러닝 모델 및 딥러닝 모델을 저장합니다.
 - 앙상블 및 스태킹 기법과 다른 모델을 비교할 수 있습니다.
 
+## model
+- RandomForest
+- XGBoost
+- LightGBM
+- LSTM
+
+
 ## 평가지표
 RMSE(Root Mean Squared Error)
 
